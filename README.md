@@ -1,3 +1,5 @@
+![3d modeling and web development](https://github.com/ivan-tana/ivan-tana/blob/main/0082.png)
+
 - 👋 Hi, I’m @ivan-tana
 - 👀 I’m interested in artificial intelligence, VR Game Development 3D modeling
 - 🌱 I’m currently learning Computer science at AFHEMI University of Technology In kumba Cameroon
