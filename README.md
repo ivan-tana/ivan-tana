@@ -1,16 +1,8 @@
-![3d modeling and web development](https://github.com/ivan-tana/ivan-tana/blob/main/0082.png)
+Web Developer 👩‍💻 | AI & Cloud ☁️ Explorer | Anime 🎎 Enthusiast
 
-- 👋 Hi, I’m @ivan-tana
-- 👀 I’m interested in artificial intelligence, VR Game Development 3D modeling
-- 🌱 I’m currently learning Computer science at AFHEMI University of Technology In kumba Cameroon
-- 💞️ I’m looking to collaborate on VR Game Development in unity
-- 📫 How to reach me on instagram "https://www.instagram.com/ivan.tana45/" by Email at "ivan-tana@outlook.com"
+I'm F.G. Ivan Tana, a software engineering student in Cameroon. I'm passionate about building web applications and exploring the latest AI and cloud technologies. I'm also a big fan of Japanese anime 🎎.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-tana&theme=dark&show_icons=true)
+I'm always looking for new challenges and opportunities to learn and grow. If you're interested in web development, AI, cloud computing, or anything else in the tech world, follow me for updates on my work and projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-tana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-ivan-tana/ivan-tana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect! 👋
+ - 📬: ivan8tana@gmail.com
